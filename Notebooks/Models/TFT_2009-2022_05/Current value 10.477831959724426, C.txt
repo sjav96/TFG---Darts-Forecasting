@@ -1,0 +1,3 @@
+Current value: 10.477831959724426, Current params: {'days_in': 28, 'days_out': 1, 'hidden_size': 38, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.09604894018818572, 'batch_size': 25}
+Best value: 10.477831959724426, Best params: {'days_in': 28, 'days_out': 1, 'hidden_size': 38, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.09604894018818572, 'batch_size': 25}
+Best value: 10.477831959724426, Best params: {'days_in': 28, 'days_out': 1, 'hidden_size': 38, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.09604894018818572, 'batch_size': 25}

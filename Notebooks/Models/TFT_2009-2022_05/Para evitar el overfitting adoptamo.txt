@@ -1,0 +1,2 @@
+Para evitar el overfitting adoptamos técnicas tradicionales de ML y dividimos el dataset en tres partes: entrenamiento, validación y prueba. 
+El set de entrenamiento se utiliza para entrenar el modelo. Este modelo observa y aprende de los datos del set.

@@ -1,0 +1,38 @@
+from darts.models import TFTModel, ARIMA, RNNModel
+from pytorch_lightning.callbacks import EarlyStopping
+# from torchmetrics import MeanAbsolutePercentageError
+
+# torch_metrics = MeanAbsolutePercentageError()
+
+# early stop callback
+my_stopper = EarlyStopping(
+    monitor="val_loss", # "train_loss"
+    patience=20,
+    min_delta=0.1,
+    mode='min',
+)
+pl_trainer_kwargs={
+      "accelerator": "gpu",
+      "devices": [0],
+      "callbacks": [my_stopper]
+}
+
+tft = TFTModel(
+    input_chunk_length=336,
+    output_chunk_length=24,
+    hidden_size=64,
+    lstm_layers=1,
+    num_attention_heads=4,
+    dropout=0.1,
+    batch_size=16,
+    n_epochs=100,
+    add_relative_index=False,
+    add_encoders=None,
+    # loss_fn=MSELoss(),
+    random_state=42,
+    force_reset = True,
+    save_checkpoints=True,
+    # torch_metrics=torch_metrics,
+    pl_trainer_kwargs=pl_trainer_kwargs,
+)
+tft.fit(series=train_transformed, val_series=val_transformed, future_covariates=covariates_transformed, val_future_covariates=covariates_transformed_val, verbose=True)

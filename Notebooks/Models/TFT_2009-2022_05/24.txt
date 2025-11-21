@@ -1,0 +1,29 @@
+24
+Current value: 8.51520225405693, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+
+7
+Current value: 8.682016283273697, Current params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+
+19
+Current value: 9.044242650270462, Current params: {'days_in': 20, 'days_out': 1, 'hidden_size': 50, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2680939780722607, 'batch_size': 21}
+
+20
+Current value: 9.047288447618484, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 48, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2693201685179787, 'batch_size': 17}
+
+33
+Current value: 9.13158729672432, Current params: {'days_in': 18, 'days_out': 1, 'hidden_size': 50, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2872232885276087, 'batch_size': 18}
+
+23
+Current value: 9.160233289003372, Current params: {'days_in': 14, 'days_out': 1, 'hidden_size': 51, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.26962003524418193, 'batch_size': 18}
+
+28
+Current value: 9.278048574924469, Current params: {'days_in': 18, 'days_out': 1, 'hidden_size': 45, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.31802202511946226, 'batch_size': 23}
+
+37
+Current value: 9.330389648675919, Current params: {'days_in': 15, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.33011321304549396, 'batch_size': 19}
+
+32
+Current value: 9.477295726537704, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 47, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.26194051452013606, 'batch_size': 16}
+
+26
+Current value: 9.543521702289581, Current params: {'days_in': 16, 'days_out': 1, 'hidden_size': 40, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3068443399201883, 'batch_size': 24}

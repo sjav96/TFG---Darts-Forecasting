@@ -1,0 +1,3 @@
+Diseño de un modelo de Deep Learning basado en la arquitectura Temporal Fusion Transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional
+
+Optuna: A Next-generation Hyperparameter Optimization Framework

@@ -1,0 +1,306 @@
+1
+Current value: 10.443473607301712, Current params: {'days_in': 22, 'days_out': 1, 'hidden_size': 42, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.2812210132433447, 'batch_size': 30}
+Best value: 10.443473607301712, Best params: {'days_in': 22, 'days_out': 1, 'hidden_size': 42, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.2812210132433447, 'batch_size': 30}
+Epoch 5: 100%
+
+
+2
+Current value: 12.046072632074356, Current params: {'days_in': 19, 'days_out': 1, 'hidden_size': 57, 'lstm_layers': 2, 'num_attention_heads': 3, 'dropout': 0.1426663926773924, 'batch_size': 20}
+Best value: 10.443473607301712, Best params: {'days_in': 22, 'days_out': 1, 'hidden_size': 42, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.2812210132433447, 'batch_size': 30}
+Epoch 2: 100%
+
+
+3
+Current value: 13.724647462368011, Current params: {'days_in': 15, 'days_out': 1, 'hidden_size': 32, 'lstm_layers': 1, 'num_attention_heads': 2, 'dropout': 0.321181190862323, 'batch_size': 30}
+Best value: 10.443473607301712, Best params: {'days_in': 22, 'days_out': 1, 'hidden_size': 42, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.2812210132433447, 'batch_size': 30}
+Epoch 7: 100%
+
+
+4
+Current value: 11.390585452318192, Current params: {'days_in': 29, 'days_out': 1, 'hidden_size': 56, 'lstm_layers': 2, 'num_attention_heads': 3, 'dropout': 0.0910815610449633, 'batch_size': 29}
+Best value: 10.443473607301712, Best params: {'days_in': 22, 'days_out': 1, 'hidden_size': 42, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.2812210132433447, 'batch_size': 30}
+Epoch 2: 100%
+
+
+5
+Current value: 11.589843034744263, Current params: {'days_in': 15, 'days_out': 1, 'hidden_size': 54, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.24307417281910673, 'batch_size': 22}
+Best value: 10.443473607301712, Best params: {'days_in': 22, 'days_out': 1, 'hidden_size': 42, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.2812210132433447, 'batch_size': 30}
+Epoch 6: 100%
+
+
+6
+Current value: 10.298652201890945, Current params: {'days_in': 22, 'days_out': 1, 'hidden_size': 38, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.37247431642626283, 'batch_size': 27}
+Best value: 10.298652201890945, Best params: {'days_in': 22, 'days_out': 1, 'hidden_size': 38, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.37247431642626283, 'batch_size': 27}
+Epoch 7: 100%
+
+
+7
+Current value: 8.682016283273697, Current params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 6: 100%
+
+
+8
+Current value: 13.843271136283875, Current params: {'days_in': 27, 'days_out': 1, 'hidden_size': 57, 'lstm_layers': 2, 'num_attention_heads': 3, 'dropout': 0.13825349525686234, 'batch_size': 19}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 4: 100%
+
+
+9
+Current value: 11.657586693763733, Current params: {'days_in': 23, 'days_out': 1, 'hidden_size': 62, 'lstm_layers': 1, 'num_attention_heads': 2, 'dropout': 0.09372548200918601, 'batch_size': 29}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 5: 100%
+
+
+10
+Current value: 11.104786396026611, Current params: {'days_in': 27, 'days_out': 1, 'hidden_size': 58, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.009565990249929036, 'batch_size': 27}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 3: 100%
+
+
+11
+Current value: 12.976239621639252, Current params: {'days_in': 18, 'days_out': 1, 'hidden_size': 48, 'lstm_layers': 1, 'num_attention_heads': 2, 'dropout': 0.3816975752531375, 'batch_size': 24}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 3: 100%
+
+
+12
+Current value: 11.061488091945648, Current params: {'days_in': 22, 'days_out': 1, 'hidden_size': 39, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3963103413397895, 'batch_size': 16}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 3: 100%
+
+
+13
+Current value: 16.057905554771423, Current params: {'days_in': 19, 'days_out': 1, 'hidden_size': 43, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3351876261069862, 'batch_size': 26}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 2: 100%
+
+
+14
+Current value: 12.098102271556854, Current params: {'days_in': 24, 'days_out': 1, 'hidden_size': 35, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3317804994527128, 'batch_size': 25}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 5: 100%
+
+
+15
+Current value: 11.7450512945652, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 48, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2399364785810726, 'batch_size': 32}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 2: 100%
+
+
+16
+Current value: 15.233336389064789, Current params: {'days_in': 21, 'days_out': 1, 'hidden_size': 44, 'lstm_layers': 1, 'num_attention_heads': 2, 'dropout': 0.39990187080122813, 'batch_size': 23}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 2: 100%
+
+
+17
+Current value: 10.936948657035828, Current params: {'days_in': 26, 'days_out': 1, 'hidden_size': 38, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3025580179413787, 'batch_size': 27}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 6: 100%
+
+
+18
+Current value: 9.788070619106293, Current params: {'days_in': 20, 'days_out': 1, 'hidden_size': 51, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3646933144790264, 'batch_size': 21}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 6: 100%
+
+
+19
+Current value: 9.044242650270462, Current params: {'days_in': 20, 'days_out': 1, 'hidden_size': 50, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2680939780722607, 'batch_size': 21}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 7: 100%
+
+
+20
+Current value: 9.047288447618484, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 48, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2693201685179787, 'batch_size': 17}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 5: 100%
+
+
+21
+Current value: 12.445323914289474, Current params: {'days_in': 24, 'days_out': 1, 'hidden_size': 52, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.23027509185434253, 'batch_size': 19}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 10: 100%
+
+
+22
+Current value: 10.581115633249283, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2852890385298277, 'batch_size': 17}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 5: 100%
+
+
+23
+Current value: 9.160233289003372, Current params: {'days_in': 14, 'days_out': 1, 'hidden_size': 51, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.26962003524418193, 'batch_size': 18}
+Best value: 8.682016283273697, Best params: {'days_in': 19, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3505077873908772, 'batch_size': 24}
+Epoch 9: 100%
+
+
+24
+Current value: 8.51520225405693, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 9: 100%
+
+
+25
+Current value: 9.628905355930328, Current params: {'days_in': 20, 'days_out': 1, 'hidden_size': 44, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.34599448574103536, 'batch_size': 22}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 5: 100%
+
+
+26
+Current value: 9.543521702289581, Current params: {'days_in': 16, 'days_out': 1, 'hidden_size': 40, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3068443399201883, 'batch_size': 24}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 4: 100%
+
+
+27
+Current value: 12.21686601638794, Current params: {'days_in': 19, 'days_out': 1, 'hidden_size': 50, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.35693109498498604, 'batch_size': 21}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 4: 100%
+
+
+28
+Current value: 9.278048574924469, Current params: {'days_in': 18, 'days_out': 1, 'hidden_size': 45, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.31802202511946226, 'batch_size': 23}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 6: 100%
+
+
+29
+Current value: 10.65315157175064, Current params: {'days_in': 20, 'days_out': 1, 'hidden_size': 64, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.35069458222091776, 'batch_size': 25}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 9: 100%
+
+
+30
+Current value: 11.306295543909073, Current params: {'days_in': 21, 'days_out': 1, 'hidden_size': 41, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.2827739325898768, 'batch_size': 20}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 6: 100%
+
+
+31
+Current value: 10.335564613342285, Current params: {'days_in': 14, 'days_out': 1, 'hidden_size': 54, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.3190300113473198, 'batch_size': 22}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 9: 100%
+
+
+32
+Current value: 9.477295726537704, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 47, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.26194051452013606, 'batch_size': 16}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 7: 100%
+
+
+33
+Current value: 9.13158729672432, Current params: {'days_in': 18, 'days_out': 1, 'hidden_size': 50, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2872232885276087, 'batch_size': 18}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 2: 100%
+
+
+34
+Current value: 11.597343534231186, Current params: {'days_in': 16, 'days_out': 1, 'hidden_size': 48, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.20936944689615986, 'batch_size': 20}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 6: 100%
+
+
+35
+Current value: 11.650410294532776, Current params: {'days_in': 16, 'days_out': 1, 'hidden_size': 42, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2999502309421029, 'batch_size': 23}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 2: 100%
+
+
+36
+Current value: 14.621423184871674, Current params: {'days_in': 19, 'days_out': 1, 'hidden_size': 53, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.2625961577069137, 'batch_size': 21}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 6: 100%
+
+
+37
+Current value: 9.330389648675919, Current params: {'days_in': 15, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 2, 'num_attention_heads': 4, 'dropout': 0.33011321304549396, 'batch_size': 19}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 3: 100%
+
+
+38
+Current value: 14.332292973995209, Current params: {'days_in': 21, 'days_out': 1, 'hidden_size': 49, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.20957532942439255, 'batch_size': 17}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 2: 100%
+
+
+39
+Current value: 10.429208725690842, Current params: {'days_in': 18, 'days_out': 1, 'hidden_size': 55, 'lstm_layers': 1, 'num_attention_heads': 2, 'dropout': 0.2559782770836693, 'batch_size': 26}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 7: 100%
+
+
+40
+Current value: 10.39963886141777, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 58, 'lstm_layers': 2, 'num_attention_heads': 3, 'dropout': 0.34984219498333163, 'batch_size': 25}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 2: 100%
+
+
+41
+Current value: 11.066092550754547, Current params: {'days_in': 15, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.37309134515391085, 'batch_size': 20}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 4: 100%
+
+
+42
+Current value: 10.47990694642067, Current params: {'days_in': 18, 'days_out': 1, 'hidden_size': 50, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2801022926771648, 'batch_size': 18}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 9: 100%
+
+
+43
+Current value: 12.745872139930725, Current params: {'days_in': 19, 'days_out': 1, 'hidden_size': 49, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.29542530994772886, 'batch_size': 18}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 2: 100%
+
+
+44
+Current value: 11.545101553201675, Current params: {'days_in': 18, 'days_out': 1, 'hidden_size': 52, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3158130053821932, 'batch_size': 17}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 6: 100%
+
+
+45
+Current value: 9.767688065767288, Current params: {'days_in': 20, 'days_out': 1, 'hidden_size': 43, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.2897463083552667, 'batch_size': 22}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 5: 100%
+
+
+46
+Current value: 10.2395698428154, Current params: {'days_in': 16, 'days_out': 1, 'hidden_size': 47, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.2290146499656246, 'batch_size': 16}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 9: 100%
+
+
+47
+Current value: 10.503224283456802, Current params: {'days_in': 19, 'days_out': 1, 'hidden_size': 32, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.33496025338268615, 'batch_size': 19}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 5: 100%
+
+
+48
+Current value: 13.66058886051178, Current params: {'days_in': 23, 'days_out': 1, 'hidden_size': 56, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.38630541186657313, 'batch_size': 24}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 6: 100%
+
+
+49
+Current value: 10.001124441623688, Current params: {'days_in': 17, 'days_out': 1, 'hidden_size': 50, 'lstm_layers': 1, 'num_attention_heads': 3, 'dropout': 0.2476111896193198, 'batch_size': 21}
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+Epoch 8: 100%
+
+
+50
+Current value: 9.728950262069702, Current params: {'days_in': 21, 'days_out': 1, 'hidden_size': 44, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.18622051454198058, 'batch_size': 18}
+
+
+372259.34726691246 seconds.
+6204.322454448541 minutes.
+103.40537424080901 hours.
+
+
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
+
+Best value: 8.51520225405693, Best params: {'days_in': 17, 'days_out': 1, 'hidden_size': 46, 'lstm_layers': 1, 'num_attention_heads': 4, 'dropout': 0.3319245051389883, 'batch_size': 22}
